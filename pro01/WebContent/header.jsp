@@ -5,7 +5,7 @@
 <c:set var="hpath" value="<%=request.getContextPath() %>" />
 <header>
 	<div class="logo_wrap">
-		<a href="/pro01"><img src="${hpath }/images/logo.png" alt="가산동 로고" /></a>
+		<a href="/pro01"><img src="${hpath }/images/logo 2.png" alt="삼성동" /></a>
 	</div>
 	<div id="tnb" style="height:100px; line-height:2rem; padding-top:1rem">
 		<c:if test="${not empty sid }">

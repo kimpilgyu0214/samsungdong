@@ -11,8 +11,8 @@
 <meta name="subject" content="가산동 소개(Gasandong Intro)" />
 <meta name="description" content="가산동, 패션, 아웃렛, IT빌딩, 디지털산업단지, 가산동 맛집" />
 <meta name="keywords" content="가산동, 패션, 아웃렛, IT빌딩, 디지털산업단지, 가산동 맛집" />
-<link rel="icon" href="${ipath }/images/favicon.png" />
-<link rel="shortcut icon" href="${ipath }/images/favicon.png" />
+<link rel="icon" href="${ipath }/images/favicon 2.png" />
+<link rel="shortcut icon" href="${ipath }/images/favicon 2.png" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="gasandong" />
 <meta property="og:description" content="가산동, 패션, 아웃렛, IT빌딩, 디지털산업단지, 가산동 맛집" />

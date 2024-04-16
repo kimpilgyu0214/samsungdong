@@ -32,13 +32,13 @@ th.item3 { width:20%; }
 			<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
 			  <div class="carousel-inner">
 			    <div class="carousel-item active">
-			      <img src="${path0 }/images/vs4.png" class="d-block w-100" alt="...">
+			      <img src="${path0 }/images/vs1.png" class="d-block w-100" alt="...">
 			    </div>
 			    <div class="carousel-item">
-			      <img src="${path0 }/images/vs5.png" class="d-block w-100" alt="...">
+			      <img src="${path0 }/images/vs2.png" class="d-block w-100" alt="...">
 			    </div>
 			    <div class="carousel-item">
-			      <img src="${path0 }/images/vs6.png" class="d-block w-100" alt="...">
+			      <img src="${path0 }/images/vs3.png" class="d-block w-100" alt="...">
 			    </div>
 			  </div>
 			 <button class="carousel-control-prev" type="button" data-target="#carouselExampleControls" data-slide="prev">
